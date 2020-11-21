@@ -13,7 +13,7 @@ Please note that the links for exersises are included at the end of each jupyter
 As per schedule, the evening session of the master class have hands-on sessions. The structure of the hands-on session is as follows:
 
 1. The jupyter notebooks would be provided to the participants via a GitHub Repository that would have some examples and exercises (DIY based). 
-  2. The instructor would go over the content for first 45 mins of the hands-on session and thereafter the participants would be divided into smaller groups (called breakout rooms) to work on the exercises of the jupyter notebook for 30 mins and during last 15 mins the the participants would come back to main room and instructor would discuss about exercise solutions or difficulties.
+ 2. The instructor would go over the content of the hands-on session and thereafter if instructor wish, then participants would be divided into smaller groups (called breakout rooms) to work on the exercises of the jupyter notebook for 20-30 mins and during last 10-15 mins the the participants would come back to main room and instructor would discuss about exercise solutions or difficulties.
   3. In the breakout rooms, the discussion between the participants is encouraged to work collaboratively. The data scientist team members would be visiting the breakout room on round robin basis to assist you in the breakout rooms. 
 
 ## Asking questions during Zoom Lab
